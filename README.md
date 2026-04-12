@@ -6,68 +6,59 @@
 
 - 🚑 의료/응급 도메인 AI 서비스
 - 🤖 LLM 기반 업무 자동화 및 Agent 시스템
-- ⚙️ 백엔드 아키텍처 설계 및 서비스 운영 안정화
+- ⚙️ 서비스 아키텍처 설계 및 운영 안정화
 - 📊 데이터 기반 문제 해결과 실서비스 적용
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 응급구조학 전공
-- 🌱 SSAFY 13기 수료
-- 👨‍🏫 SSAFY AI 실습코치 활동
+- 🎓 을지대학교 응급구조학과 전공 (2019.03~2025.02)
+- 🌱 삼성청년SW·AI 아카데미 13기 수료 - python 트랙 (2025.01~2025.12)
+- 👨‍🏫 삼성청년SW·AI 아카데미 실습코치 (2025.12 ~ )
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Language
-- Python
-- Java
-- JavaScript
-- TypeScript
-
-### Backend
-- Spring Boot
-- Django
-- FastAPI
-- REST API
-- JPA
-
-### Frontend
-- Vue.js
-- React
-- React Native
-- Vite
-- Tailwind CSS
-- styled-components
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### AI / ML
-- PyTorch
-- Transformers
-- LoRA / QLoRA
-- Hugging Face
-- Faster-Whisper
-- OCR
-- Recommendation System
-- RAG
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LoRA / QLoRA](https://img.shields.io/badge/LoRA_/_QLoRA-%238A2BE2?style=for-the-badge&logo=ai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Backend
+![Django](https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Database / Infra
-- MySQL
-- PostgreSQL
-- Redis
-- Docker
-- AWS EC2
-- Nginx
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ### Tools / Collaboration
-- Git
-- GitHub
-- GitLab
-- JIRA
-- Notion
-- Postman
-- Mattermost
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-%230052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Mattermost](https://img.shields.io/badge/Mattermost-%230056A3?style=for-the-badge&logo=mattermost&logoColor=white)
 
 ---
 
