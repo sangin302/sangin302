@@ -2,7 +2,9 @@
 
 > **의료 현장의 문제를 이해하고, AI가 실제로 작동하는 서비스로 구현합니다.**
 
-## What I Do
+---
+
+## 🎯 What I Do
 
 * **AI 모델 활용 및 최적화**
   LLM·STT 파인튜닝, LoRA, GGUF 양자화, 구조화 출력 구현
@@ -15,7 +17,7 @@
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### 삼성청년SW·AI아카데미 AI 실습코치
 
@@ -41,23 +43,58 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Core**
+### Language
 
-`Python` `FastAPI` `PyTorch` `Transformers` `Redis` `Docker`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-**Backend & Database**
+### AI / ML
 
-`Spring Boot` `Django` `PostgreSQL` `MySQL`
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![LoRA](https://img.shields.io/badge/LoRA_/_QLoRA-8A2BE2?style=for-the-badge)
+![Faster Whisper](https://img.shields.io/badge/Faster_Whisper-2D3748?style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-**Frontend & Infra**
+### Backend
 
-`Vue.js` `React Native` `AWS EC2` `Nginx`
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
+
+### Frontend
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### Database / Infra
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx\&logoColor=white)
+
+### Tools / Collaboration
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge\&logo=notion\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### 🚑 SSAIREN
 
@@ -82,7 +119,9 @@
 
 ---
 
-### 🎭 제 5회 KOPIS 빅데이터 분석 공모전 - **복합 장르 공연의 성과를 분석하는 데이터 기반 의사결정 도구**
+### 🎭 KOPIS 빅데이터 분석 공모전
+
+**복합 장르 공연의 성과를 분석하는 데이터 기반 의사결정 도구**
 
 `제5회 KOPIS 빅데이터 공모전 혁신상`
 
@@ -105,6 +144,7 @@ KOPIS에서 하나의 ‘복합’ 범주로 관리되던 공연을
 ### 💸 우리들의 비밀장터
 
 **청소년 경제 학습을 위한 AI 콘텐츠 생성 플랫폼**
+
 `SSAFY 특화 프로젝트 최우수상`
 
 경제 뉴스를 수집·요약하고, 청소년 수준에 맞는 퀴즈를
@@ -115,8 +155,7 @@ KOPIS에서 하나의 ‘복합’ 범주로 관리되던 공연을
 * 팀장, AI 및 백엔드 개발 담당
 * RSS 수집부터 뉴스 요약·퀴즈 생성까지 자동화
 * AI 호출 실패 시 TextRank로 전환되는 폴백 구조 구현
-* 장애 원인별 재시도와 타임아웃 처리로 요약 실패율
-  `30~40% → 0.5% 미만` 개선
+* 장애 원인별 재시도와 타임아웃 처리로 요약 실패율 `30~40% → 0.5% 미만` 개선
 * 품질 필터링 기반 학습으로 퀴즈 생성 성공률 `14%` 향상
 * 콘텐츠 품질 점수 `35%` 개선
 
@@ -124,7 +163,7 @@ KOPIS에서 하나의 ‘복합’ 범주로 관리되던 공연을
 
 ---
 
-## Other Projects
+## 📂 Other Projects
 
 | 프로젝트         | 주요 기여                                                                |
 | ------------ | -------------------------------------------------------------------- |
@@ -133,7 +172,7 @@ KOPIS에서 하나의 ‘복합’ 범주로 관리되던 공연을
 
 ---
 
-## Contact
+## 📬 Contact
 
 * GitHub: [github.com/sangin302](https://github.com/sangin302)
 * Portfolio: [bit.ly/sanginotion](https://bit.ly/sanginotion)
